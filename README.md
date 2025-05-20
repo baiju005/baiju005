@@ -2,6 +2,8 @@
 - 👀 I’m interested in - Learn Coding and new Tecnology
 - 🌱 I’m currently learning - DSA
 - 📫 How to reach me - 'baiju.contact@gmail.com'
+
+-  Linkedln    :- "https://www.linkedin.com/in/baiju-kumar-a6235233b/"
 -  GFG Profile :- "https://www.geeksforgeeks.org/user/baiju005/"
 -  Leet Code   :- "https://leetcode.com/u/baiju7256/"
 -  Facebook    :- "https://www.facebook.com/baijukumar.yadav.1614460/about"
